@@ -15,6 +15,8 @@ Objectives: Aims to enhance cooking experiences, reduce food waste, promote heal
 
 Conclusion: The project seeks to modernize home cooking by making recipe organization and meal planning easier and more engaging through technology.
 
+The project aims to enhance the cooking experience by providing an intuitive and interactive interface for users, making meal preparation easier and more enjoyable. Whether you're a home cook looking for inspiration or a professional chef organizing your recipes, Cook Book offers a seamless solution for all your culinary needs.
+
 
 
 
